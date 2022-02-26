@@ -1,16 +1,12 @@
 # coffee_app
 
-A new Flutter project.
+Flutter Coffee App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Public URL:
+  coffeeapp-e1f7b.web.app
+  coffeeapp-e1f7b.firebaseapp.com
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/45505443/155836725-2fe00b3f-6370-4b31-af88-bd8b970afaa2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
